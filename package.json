@@ -1,0 +1,45 @@
+{
+  "name": "@nathanfaucett/input",
+  "version": "0.0.1",
+  "description": "Input for the browser and node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanfaucett/js-input.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "example": "comn -f ./example/index.js -o ./example/index.min.js"
+  },
+  "keywords": [
+    "input",
+    "input.js"
+  ],
+  "author": "Nathan Faucett",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "@nathanfaucett/now": "0.0.3",
+    "@nathanfaucett/comn": "^0.0.13",
+    "@nathanfaucett/task": "^0.0.7",
+    "gulp-jsbeautifier": "^2.0.3",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.3"
+  },
+  "dependencies": {
+    "@nathanfaucett/blur_node": "^0.0.1",
+    "@nathanfaucett/create_pool": "^0.0.3",
+    "@nathanfaucett/enums": "0.0.2",
+    "@nathanfaucett/environment": "^0.0.2",
+    "@nathanfaucett/event_emitter": "^0.0.3",
+    "@nathanfaucett/event_listener": "^0.0.1",
+    "@nathanfaucett/focus_node": "^0.0.1",
+    "@nathanfaucett/gamepads": "git@github.com:nathanfaucett/js-gamepads.git",
+    "@nathanfaucett/get_active_element": "^0.0.1",
+    "@nathanfaucett/index_of": "^0.0.1",
+    "@nathanfaucett/is_null": "^0.0.1",
+    "@nathanfaucett/is_null_or_undefined": "^0.0.1",
+    "@nathanfaucett/mathf": "^0.0.3",
+    "@nathanfaucett/vec2": "^0.0.2",
+    "@nathanfaucett/vec3": "^0.0.2"
+  }
+}
