@@ -33,7 +33,7 @@
     "@nathanfaucett/event_emitter": "^0.0.3",
     "@nathanfaucett/event_listener": "^0.0.1",
     "@nathanfaucett/focus_node": "^0.0.1",
-    "@nathanfaucett/gamepads": "git@github.com:nathanfaucett/js-gamepads.git",
+    "@nathanfaucett/gamepads": "git://github.com/nathanfaucett/js-gamepads.git",
     "@nathanfaucett/get_active_element": "^0.0.1",
     "@nathanfaucett/index_of": "^0.0.1",
     "@nathanfaucett/is_null": "^0.0.1",
